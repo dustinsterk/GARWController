@@ -1,6 +1,6 @@
 # GARWController
 
-**UPDATE:  Please use the easier GARW Genie tool for an on laptop controller:** https://github.com/dustinsterk/GARWGenie
+# **UPDATE:  Please use the easier GARW Genie tool for an on laptop controller:** https://github.com/dustinsterk/GARWGenie
 
 
 
