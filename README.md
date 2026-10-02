@@ -1,4 +1,14 @@
 # GARWController
+
+**UPDATE:  Please use the easier GARW Genie tool for an on laptop controller:** https://github.com/dustinsterk/GARWGenie
+
+
+
+
+# Deprecated below......
+
+
+
 GARW Dash Controller
 
 This file assume you have Node installed on your local machine:
